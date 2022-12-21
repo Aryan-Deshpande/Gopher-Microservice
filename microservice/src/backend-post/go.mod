@@ -1,4 +1,4 @@
-module microservice.com/backend
+module microservice/backend-post
 
 go 1.19
 
